@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Suite namme="Sample suite">
+	<test name="Learning jenkins">
+		<Classes>
+			<class name="jenkinstest.java"></class>
+		</Classes>
+	</test>
+
+
+</Suite>
