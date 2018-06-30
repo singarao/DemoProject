@@ -14,7 +14,7 @@ public class FbLogin {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
+		//edit the code for testing
 				DesiredCapabilities d = DesiredCapabilities.internetExplorer();
 				d.setCapability("nativeEvents", false);
 				d.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS,true);
